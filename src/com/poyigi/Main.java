@@ -10,7 +10,7 @@ public class Main {
             } else if (i % 3 == 0) {
                 System.out.println(i + " Buzz");
             } else {
-                System.out.println(i + " kolewerk");
+                System.out.println(i + " even");
             }
         }
     }
